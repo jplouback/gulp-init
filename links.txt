@@ -1,0 +1,8 @@
+# Gulpfile.js exemple
+https://gist.github.com/jeromecoupe/0b807b0c1050647eb340360902c3203a
+
+# Tutorial
+https://medium.com/@fnandaleite/gulp-direto-ao-ponto-fluxo-de-trabalho-para-iniciantes-2da02f5ab41e
+
+# Bootstrap altereds colors
+https://bootswatch.com/
